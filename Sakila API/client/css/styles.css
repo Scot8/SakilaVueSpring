@@ -1,0 +1,10 @@
+table ,tr,th,td
+{   border: black solid thin;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+[v-cloak] 
+{
+    display: none
+}
